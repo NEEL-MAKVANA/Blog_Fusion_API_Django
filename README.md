@@ -19,8 +19,8 @@ This is a simple blog API built with Django Rest Framework. The API supports CRU
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/blog-api-drf.git
-   cd blog-api-drf
+   git clone https://github.com/NEEL-MAKVANA/Blog_Fusion_API_Django.git
+   cd Blog_Fusion_API_Django
    ```
 
 2. **Create a virtual environment and activate it:**
