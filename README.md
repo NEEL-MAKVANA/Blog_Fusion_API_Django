@@ -134,6 +134,3 @@ Continue this pattern for other endpoints as described in the "API Endpoints" se
 
 Feel free to submit issues or pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
